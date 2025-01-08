@@ -19,5 +19,4 @@ Crearemos una clase denominada "EmpleadosHIBERNATE.java" realizará una operaci�
 (first_name) y apellido (last_name) del autor de la tarea, con un salario de 15000. El resto de los valores a incluir serán los que quiera el usuario con el fin
 de poder realizar la inserción correctamente.
 
-Se debe documentar la inserción de datos con capturas de pantalla y explicaciones.
 
